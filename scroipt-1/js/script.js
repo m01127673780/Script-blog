@@ -1,1 +1,0 @@
-$('.masege').slideUp(600);
